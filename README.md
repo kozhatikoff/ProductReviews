@@ -183,18 +183,11 @@ npm run build
 npm start
 ```
 
-## 📝 Документация
-
-- [main.tex](./main.tex) - Полная LaTeX документация (880 строк)
-- [README_LaTeX.md](./README_LaTeX.md) - Гайд по LaTeX
-- [LATEX_NORMCONTROL.md](./LATEX_NORMCONTROL.md) - Чек-лист ВУЗа
-
 ## 📞 Контакты
 
-- 📧 Email: your.email@example.com
-- 💬 GitHub Issues: [Открыть issue](../../issues)
+- 📧 Email: kozhatikoff.gleb@yandex.ru
 
 ---
 
 **Создано как курсовая работа по специальности "Прикладная математика и информатика"**
-ЮФУ, 2024
+ЮФУ, 2026
